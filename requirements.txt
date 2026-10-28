@@ -1,0 +1,7 @@
+streamlit>=1.39
+google-genai
+python-dotenv
+gTTS
+SpeechRecognition
+pandas
+pypdf
